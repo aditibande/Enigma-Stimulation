@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from enigma import Enigma, ROTORS, REFLECTORS, A
 
-ROWS = ["QWERTZUIOP", "ASDFGHJKL", "PYXCVBNM"]
+ROWS = ["QWERTZUIO", "ASDFGHJK", "PYXCVBNML"]
 BG = "#141414"
 BRASS = "#b5924a"
 CX = 430
